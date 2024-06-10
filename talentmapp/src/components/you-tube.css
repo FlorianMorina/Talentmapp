@@ -1,0 +1,12 @@
+.you-tube-you-tube {
+  width: 240px;
+  height: 120px;
+  display: flex;
+  align-items: center;
+  border-radius: 200px;
+  justify-content: center;
+  background-color: var(--dl-color-gray-white);
+}
+.you-tube-pasted-image {
+  width: 120px;
+}

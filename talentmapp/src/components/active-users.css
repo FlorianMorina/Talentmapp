@@ -1,0 +1,14 @@
+.active-users-active-users {
+  position: relative;
+}
+.active-users-text {
+  color: rgb(255, 255, 255);
+  font-size: 56px;
+  font-style: normal;
+  font-weight: 700;
+}
+.active-users-text1 {
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  margin-top: 13px;
+}
